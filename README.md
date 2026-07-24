@@ -1,5 +1,11 @@
-# 💫 About Me:
-# Hi 👋, I'm **Adil Dhukka**<br><br>### 💻 Frontend Developer | Creative Web Engineer | B.Sc. IT Student<br><br>Passionate about crafting modern, responsive, and user-centric web experiences. I enjoy transforming ideas into scalable web applications while continuously exploring new technologies and building real-world solutions.<br><br>* 🔭 **I'm currently working on:** Full-stack web applications, AI-powered tools, and innovative hackathon projects.<br>* 🌱 **I'm currently learning:** React.js, Node.js, Next.js, System Design, and AI integration in web development.<br>* 👯 **I'm looking to collaborate on:** Open-source projects, SaaS products, startup ideas, and impactful web applications.<br>* 🤝 **I'm looking for help with:** Backend architecture, cloud deployment, DevOps, and scalable application design.<br>* 💬 **Ask me about:** HTML, CSS, JavaScript, React, Tailwind CSS, C, C++, Python, Git, GitHub, and modern web development.<br>* 🎯 **Current goal:** Build high-quality products, contribute to open source, and grow into a skilled Software Engineer.<br>* 🌐 **Portfolio:** https://adildhukka-portfolio.vercel.app<br>* 📫 **Reach me at:** **[aadildhukkaa@gmail.com](mailto:aadildhukkaa@gmail.com)**<br>* ⚡ **Fun fact:** I enjoy turning ideas into polished web experiences and believe every project is an opportunity to learn something new.<br>
+# Hi 👋, I'm Adil Dhukka
+
+- 🔭 I’m currently working on **AI-powered web applications, full-stack projects, and innovative hackathon solutions.**
+- 👯 I’m looking to collaborate on **open-source projects, SaaS products, and impactful web applications.**
+- 🤝 I’m looking for help with **system design, cloud deployment, and scalable backend architecture.**
+- 🌱 I’m currently learning **React, Next.js, Node.js, AI integration, and modern web technologies.**
+- 💬 Ask me about **Web Development, JavaScript, React, Tailwind CSS, C, C++, Python, Git, and GitHub.**
+- ⚡ Fun fact: **I love turning ideas into beautiful, high-performance websites that solve real-world problems.**
 
 
 ## 🌐 Socials:
